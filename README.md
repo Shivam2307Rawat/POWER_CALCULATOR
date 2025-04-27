@@ -30,8 +30,8 @@ This project is a Java-based **Power Calculator** that computes `n^p` (n raised 
     
   - Try-catch blocks for managing runtime errors
   
- 
-  ### How to Run
+
+## How to Run
 1. Clone the repository or download the project files.
 
 2. Compile the Java file:
